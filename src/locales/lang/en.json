@@ -1,0 +1,96 @@
+{
+    "nav": {
+        "home": "Home",
+        "deaths": "Deaths"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "message": "You have {count} new notifications",
+        "message_plural": "You have {count} new notifications",
+        "markAllAsRead": "Mark all as read",
+        "markAsRead": "Mark as read",
+        "markAsUnread": "Mark as unread",
+        "delete": "Delete",
+        "deleteAll": "Delete all",
+        "noNotifications": "No notifications",
+        "noNotificationsDesc": "You have no new notifications",
+        "viewAll": "View all activities"
+    },
+    "home":{
+        "title": "Subscriptions"
+    },
+    "deaths": {
+        "title": "Historical Deaths",
+        "totalDeaths": "Total Deaths",
+        "graph": "Graph",
+        "filters": {
+            "title": "Filters",
+            "advancedFilters": "Advanced Filters"
+        },
+        "search": "Search",
+        "searchWarn": "Remember, the information is updated in real time, no need to reload.",
+        "table": {
+            "name": "Name",
+            "reset": "Reset",
+            "level": "Level",
+            "by": "By",
+            "date": "Date"
+        },
+        "diedLessThanMinute": "Died less than a minute",
+        "notifications": {
+            "title": "Notifications",
+            "desc": "Whenever the player <strong>{{name}}</strong> dies, you will receive a notification.",
+            "memberOnly": "This feature is only available for members.",
+            "receive": "Receive notifications",
+            "email-desc": "Receive notifications by email",
+            "sms-desc": "Receive notifications by SMS",
+            "discord-desc": "Receive notifications on Discord",
+            "telegram-desc": "Receive notifications on Telegram",
+            "whatsapp-desc": "Receive notifications on WhatsApp",
+            "save": "Save",
+            "cancel": "Cancel"
+        }
+    },
+    "settings": {
+        "title": "Settings",
+        "profile": {
+            "title": "Profile",
+            "desc": "Update your profile information",
+            "input": {
+                "name": "Name",
+                "email": "Email",
+                "phone": "Phone"
+            },
+            "button": {
+                "reset": "Reset",
+                "update": "Update",
+                "updating": "Updating..."
+            }
+        },
+        "password": {
+            "title": "Password",
+            "desc": "Enter your current & new password to reset your password",
+            "input": {
+                "current": "Current Password",
+                "new": "New Password",
+                "confirm": "Confirm Password",
+                "required": "Field Required",
+                "regex": "Only letters, numbers, and common special characters are allowed.",
+                "short": "Too short...",
+                "long": "Too long...",
+                "same": "The new password is the same as the current one.",
+                "noMatch": "Passwords do not match"
+            },
+            "button": {
+                "reset": "Reset",
+                "update": "Update",
+                "updating": "Updating..."
+            },
+            "success": "Password updated successfully"
+        },
+        "billing": {
+            "title": "Billing",
+            "desc": "You can update your cards information here"
+        }
+    }
+}

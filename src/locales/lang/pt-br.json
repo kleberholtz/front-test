@@ -1,0 +1,96 @@
+{
+    "nav": {
+        "home": "Início",
+        "deaths": "Mortes"
+    },
+    "notifications": {
+        "title": "Notificações",
+        "message": "Você tem {count} novas notificações",
+        "message_plural": "Você tem {count} novas notificações",
+        "markAllAsRead": "Marcar todas como lidas",
+        "markAsRead": "Marcar como lida",
+        "markAsUnread": "Marcar como não lida",
+        "delete": "Excluir",
+        "deleteAll": "Excluir todas",
+        "noNotifications": "Nenhuma notificação",
+        "noNotificationsDesc": "Você não tem novas notificações",
+        "viewAll": "Ver todas as atividades"
+    },
+    "home":{
+        "title": "Assinaturas"
+    },
+    "deaths": {
+        "title": "Histórico de Mortes",
+        "totalDeaths": "Total de Mortes",
+        "graph": "Gráfico",
+        "filters": {
+            "title": "Filtros",
+            "advancedFilters": "Filtros Avançados"
+        },
+        "search": "Pesquisar",
+        "searchWarn": "Lembre-se, as informações são atualizadas em tempo real, não sendo necessário recarregar.",
+        "table": {
+            "name": "Nome",
+            "reset": "Reset",
+            "level": "Nível",
+            "by": "Envolvidos",
+            "date": "Data"
+        },
+        "diedLessThanMinute": "Morreu a menos de um minuto",
+        "notifications": {
+            "title": "Notificações",
+            "desc": "Sempre que o jogador <strong>{{name}}</strong> morrer, você receberá uma notificação.",
+            "memberOnly": "Este recurso está disponível apenas para membros.",
+            "receive": "Receber notificações",
+            "email-desc": "Receber notificações por e-mail",
+            "sms-desc": "Receber notificações por SMS",
+            "discord-desc": "Receber notificações no Discord",
+            "telegram-desc": "Receber notificações no Telegram",
+            "whatsapp-desc": "Receber notificações no WhatsApp",
+            "save": "Salvar",
+            "cancel": "Cancelar"
+        }
+    },
+    "settings": {
+        "title": "Configurações",
+        "profile": {
+            "title": "Perfil",
+            "desc": "Atualize as informações do seu perfil",
+            "input": {
+                "name": "Nome",
+                "email": "Email",
+                "phone": "Telefone"
+            },
+            "button": {
+                "reset": "Redefinir",
+                "update": "Atualizar",
+                "updating": "Atualizando..."
+            }
+        },
+        "password": {
+            "title": "Senha",
+            "desc": "Digite sua senha atual e nova para redefinir sua senha",
+            "input": {
+                "current": "Senha atual",
+                "new": "Nova senha",
+                "confirm": "Confirmar senha",
+                "required": "Campo obrigatório",
+                "regex": "Apenas letras, números e caracteres especiais comuns são permitidos.",
+                "short": "Muito curto...",
+                "long": "Muito longo...",
+                "same": "A nova senha é a mesma que a atual.",
+                "noMatch": "As senhas não coincidem"
+            },
+            "button": {
+                "reset": "Redefinir",
+                "update": "Atualizar",
+                "updating": "Atualizando..."
+            },
+            "success": "Senha atualizada com sucesso"
+        },
+        "billing": {
+            "title": "Cobrança",
+            "desc": "Atualize as informações de cobrança"
+        }
+    }
+}
